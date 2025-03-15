@@ -83,7 +83,7 @@ Replace pnpm with your choice of npm / yarn
 | `pnpm postbuild` | Pagefind script to build the static search of your blog posts  |
 | `pnpm preview`   | Preview your build locally, before deploying                   |
 | `pnpm sync`      | Generate types based on your config in `src/content/config.ts` |
-
+ 
 ## Configure
 
 - Edit the config file `src/site.config.ts` for basic site meta data
